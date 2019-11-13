@@ -1,4 +1,4 @@
-package com.programapprentice.app;
+package com.programapprentice.app.easy;
 
 public class MajorityElement169 {
   public int majorityElement(int[] nums) {

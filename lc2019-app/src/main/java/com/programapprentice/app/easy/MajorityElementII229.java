@@ -1,4 +1,4 @@
-package com.programapprentice.app;
+package com.programapprentice.app.easy;
 
 import java.util.ArrayList;
 import java.util.List;
