@@ -10,7 +10,7 @@ public class TheMaze490 {
   int[][] dirs = new int[][] {
     {-1,0}, // up
     {1,0}, // down
-    {0,1},// right
+    {0,1}, // right
     {0,-1} // left
   };
 
