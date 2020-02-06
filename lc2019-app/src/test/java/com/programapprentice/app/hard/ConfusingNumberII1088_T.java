@@ -9,7 +9,6 @@ public class ConfusingNumberII1088_T {
   public void test1() {
     int n = 20;
     System.out.println(solution.confusingNumberII(n));
-
   }
 
   @Test
